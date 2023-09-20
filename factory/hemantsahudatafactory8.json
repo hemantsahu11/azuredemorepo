@@ -1,0 +1,9 @@
+{
+	"name": "hemantsahudatafactory8",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98dab697-8db5-4fb4-92e6-6c85ecee4e96",
+		"tenantId": "37e7a102-d268-4f7b-8676-b05481b7c130"
+	}
+}
